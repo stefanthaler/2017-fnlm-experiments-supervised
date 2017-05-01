@@ -1,0 +1,12 @@
+55	: [ 0.212883] TCP: Hash tables configured (established 8192 bind 8192)
+72	: [ 0.214107] TCP: Hash tables configured (established 8192 bind 8192)
+89	: [ 0.216032] TCP: Hash tables configured (established 8192 bind 8192)
+104	: [ 0.216403] TCP: Hash tables configured (established 8192 bind 8192)
+117	: [ 0.600033] Scanning for low memory corruption every 60 seconds
+135	: [ 0.602154] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+144	: [ 0.602877] Serial: 8250/16550 driver 32 ports IRQ sharing enabled
+157	: [ 0.606024] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+160	: [ 0.606042] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+167	: [ 0.613128] Scanning for low memory corruption every 60 seconds
+176	: [ 0.614476] Scanning for low memory corruption every 60 seconds
+193	: [ 0.615206] pci_hotplug: PCI Hot Plug PCI Core version: 0.5

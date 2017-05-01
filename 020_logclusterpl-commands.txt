@@ -1,0 +1,5 @@
+logcluster.pl --support=1 --input=data/test_logfile.txt --wfreq=0.9
+logcluster.pl --support=2--input=data/test_logfile.txt --wfreq=0.9
+logcluster.pl --support=3--input=data/test_logfile.txt --wfreq=0.9
+
+logcluster.pl --support=2 --input=data/test_logfile.txt --wfreq=0.9 > c020/results/logclustr.txt

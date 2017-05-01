@@ -1,0 +1,177 @@
+[kernel] : [ *{1,1} pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window] 
+Support: 4
+
+[kernel] : [ *{1,1} TCP established hash table entries: 8192 (order: 4 65536 bytes) 
+Support: 4
+
+[kernel] : [ *{1,1} clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff max_idle_ns: 2085701024 ns 
+Support: 4
+
+[kernel] : [ *{1,1} UDP hash table entries: 512 (order: 2 16384 bytes) 
+Support: 4
+
+[kernel] : [ *{1,1} UDP-Lite hash table entries: 512 (order: 2 16384 bytes) 
+Support: 4
+
+[kernel] : [ *{1,1} pci 0000:00:01.0: Activating ISA DMA hang workarounds 
+Support: 4
+
+[kernel] : [ *{1,1} TCP bind hash table entries: 8192 (order: 5 131072 bytes) 
+Support: 4
+
+[kernel] : [ *{1,1} AppArmor: AppArmor Filesystem Enabled 
+Support: 4
+
+[kernel] : [ *{1,1} pci_bus 0000:00: resource 7 [mem 0x30000000-0xffdfffff window] 
+Support: 4
+
+[kernel] : [ *{1,1} PCI: CLS 0 bytes default 64 
+Support: 4
+
+[kernel] : [ *{1,1} pci_bus 0000:00: resource 5 [io 0x0d00-0xffff window] 
+Support: 4
+
+[kernel] : [ *{1,1} NET: Registered protocol family 1 
+Support: 4
+
+[kernel] : [ *{1,1} NET: Registered protocol family 2 
+Support: 4
+
+[kernel] : [ *{1,1} TCP: Hash tables configured (established 8192 bind 8192) 
+Support: 4
+
+[kernel] : [ *{1,1} pnp: PnP ACPI: found 2 devices 
+Support: 4
+
+[kernel] : [ *{1,1} pci 0000:00:02.0: Video device with shadowed ROM 
+Support: 4
+
+[kernel] : [ *{1,1} pnp: PnP ACPI init 
+Support: 4
+
+[kernel] : [ *{1,1} pnp 00:00: Plug and Play ACPI device IDs PNP0303 (active) 
+Support: 4
+
+[kernel] : [ *{1,1} pnp 00:01: Plug and Play ACPI device IDs PNP0f03 (active) 
+Support: 4
+
+[kernel] : [ *{1,1} pci 0000:00:00.0: Limiting direct PCI/PCI transfers 
+Support: 4
+
+[kernel] : [ *{1,1} Freeing initrd memory: 35348K (ffff88002d179000 - ffff88002f3fe000) 
+Support: 3
+
+[kernel] : [ *{1,1} pci_bus 0000:00: resource 4 [io 0x0000-0x0cf7 window] 
+Support: 3
+
+[kernel] : [ *{1,1} Scanning for low memory corruption every 60 seconds 
+Support: 3
+
+[kernel] : [ *{1,1} audit: initializing netlink subsys (disabled) 
+Support: 3
+
+[kernel] : [ *{1,1} platform rtc_cmos: registered platform RTC device (no PNP device found) 
+Support: 3
+
+[kernel] : [ *{1,1} HugeTLB registered 2 MB page size pre-allocated 0 pages 
+Support: 3
+
+[kernel] : [ *{1,1} audit: type=2000 *{1,1} initialized 
+Support: 3
+
+[kernel] : [ *{1,1} Trying to unpack rootfs image as initramfs... 
+Support: 3
+
+[kernel] : [ *{1,1} Initialise system trusted keyring 
+Support: 3
+
+[kernel] : [ *{1,1} futex hash table entries: 256 (order: 2 16384 bytes) 
+Support: 3
+
+[kernel] : [ *{1,1} Block layer SCSI generic (bsg) driver version 0.4 loaded (major 249) 
+Support: 2
+
+[kernel] : [ *{2,2} PATA max UDMA/33 cmd *{1,1} ctl *{1,1} bmdma *{1,1} irq *{1,1}
+Support: 2
+
+[kernel] : [ *{2,2} USB *{2,2} Host Controller *{1,1} Driver 
+Support: 2
+
+[kernel] : [ *{1,1} input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1 
+Support: 2
+
+[kernel] : [ *{1,1} fuse init (API version 7.23) 
+Support: 2
+
+[kernel] : [ *{1,1} clocksource: Switched to clocksource kvm-clock 
+Support: 2
+
+[kernel] : [ *{1,1} input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0 
+Support: 2
+
+[kernel] : [ *{1,1} Key type asymmetric registered 
+Support: 2
+
+[kernel] : [ *{1,1} NetLabel: unlabeled traffic allowed by default 
+Support: 2
+
+[kernel] : [ *{1,1} zbud: loaded 
+Support: 2
+
+[kernel] : [ *{1,1} e820: reserve RAM buffer [mem *{1,1}
+Support: 2
+
+[kernel] : [ *{1,1} io scheduler noop registered 
+Support: 2
+
+[kernel] : [ *{1,1} pci_hotplug: PCI Hot Plug PCI Core version: 0.5 
+Support: 2
+
+[kernel] : [ *{1,1} VFS: Dquot-cache hash table entries: 512 (order 0 4096 bytes) 
+Support: 2
+
+[kernel] : [ *{2,2} module loaded 
+Support: 2
+
+[kernel] : [ *{1,1} GHES: HEST is not enabled! 
+Support: 2
+
+[kernel] : [ *{1,1} Allocating IMA MOK and blacklist keyrings. 
+Support: 2
+
+[kernel] : [ *{1,1} scsi *{1,1} ata_piix 
+Support: 2
+
+[kernel] : [ *{1,1} io scheduler deadline registered (default) 
+Support: 2
+
+[kernel] : [ *{1,1} io scheduler cfq registered 
+Support: 2
+
+[kernel] : [ *{1,1} Key type big_key registered 
+Support: 2
+
+[kernel] : [ *{1,1} Asymmetric key parser 'x509' registered 
+Support: 2
+
+[kernel] : [ *{1,1} VFS: Disk quotas dquot_6.6.0 
+Support: 2
+
+[kernel] : [ *{1,1} ACPI: AC Adapter [AC] (on-line) 
+Support: 2
+
+[kernel] : [ *{1,1} pciehp: PCI Express Hot Plug Controller Driver version: 0.4 
+Support: 2
+
+[kernel] : [ *{1,1} ACPI: Sleep Button [SLPF] 
+Support: 2
+
+[kernel] : [ *{1,1} ACPI: PCI Interrupt Link *{1,1} (IRQs 5 9 10 *11) 
+Support: 2
+
+[kernel] : [ *{1,1} ACPI: Power Button [PWRF] 
+Support: 2
+
+[kernel] : [ *{1,1} usbcore: registered new interface driver *{1,1}
+Support: 2
+

@@ -1,0 +1,600 @@
+[kernel] : [    0.204669] NetLabel:  unlabeled traffic allowed by default
+[kernel] : [    º] NetLabel:  unlabeled traffic allowed by default
+
+[kernel] : [    0.204729] clocksource: Switched to clocksource kvm-clock
+[kernel] : [    º] clocksource: Switched to clocksource kvm-ºlº
+
+[kernel] : [    0.204740] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+[kernel] : [    º] ACPI: PCI Interrupt Link [Lº (IRQs 5 9 1º *1º)
+
+[kernel] : [    0.204879] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 10 *11)
+[kernel] : [    º] ACPI: PCI Interrupt Link [Lº] (IRQs 5 9 1º *º)
+
+[kernel] : [    0.204929] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 9 *10 11)
+[kernel] : [    º] ACPI: PCI Interrupt Link [Lº (IRQs 5 9 *1º º)
+
+[kernel] : [    0.204979] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 *9 10 11)
+[kernel] : [    º] ACPI: PCI Interrupt Link [Lº (IRQs 5 *9 1º º)
+
+[kernel] : [    0.205054] ACPI: Enabled 2 GPEs in block 00 to 07
+[kernel] : [    º] ACPI: Enabled 2 GPEs in block º to º
+
+[kernel] : [    0.205209] vgaarb: setting as boot device: PCI:0000:00:02.0
+[kernel] : [    º] vgaarb: setting as boot device: PCI:0º:º
+
+[kernel] : [    0.205210] vgaarb: device added: PCI:0000:00:02.0 decodes=io+mem owns=io+mem locks=none
+[kernel] : [    º] vgaarb: device added: PCI:0º:ºecodes=ioº owns=iº locks=nºne
+
+[kernel] : [    0.205212] vgaarb: bridge control possible 0000:00:02.0
+[kernel] : [    º] vgaarb: bridge control possible 0º:0º
+
+[kernel] : [    0.205212] vgaarb: loaded
+[kernel] : [    º] vgaarb: loaded
+
+[kernel] : [    0.205398] SCSI subsystem initialized
+[kernel] : [    º] SCSI subsystem initialized
+
+[kernel] : [    0.205438] libata version 3.00 loaded.
+[kernel] : [    º] libata version 3ºoadedº
+
+[kernel] : [    0.205458] ACPI: bus type USB registered
+[kernel] : [    º] ACPI: bus type USB registered
+
+[kernel] : [    0.205504] usbcore: registered new interface driver usbfs
+[kernel] : [    º] usbcore: registered new interface driver usbfs
+
+[kernel] : [    0.205510] usbcore: registered new interface driver hub
+[kernel] : [    º] usbcore: registered new interface driver hub
+
+[kernel] : [    0.205531] usbcore: registered new device driver usb
+[kernel] : [    º] usbcore: registered new device driver usb
+
+[kernel] : [    0.205654] PCI: Using ACPI for IRQ routing
+[kernel] : [    º] PCI: Using ACPI for IRQ routing
+
+[kernel] : [    0.205655] PCI: pci_cache_line_size set to 64 bytes
+[kernel] : [    º] PCI: pci_cache_line_size set to 64 bytes
+
+[kernel] : [    0.205780] e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+[kernel] : [    º] e82º: reserve RAM bufºr [mem º
+
+[kernel] : [    0.205783] e820: reserve RAM buffer [mem 0x2fff0000-0x2fffffff]
+[kernel] : [    º] e82º: reserve RAM bufºr [mem º
+
+[kernel] : [    0.205876] NetLabel: Initializing
+[kernel] : [    º] NetLabel: Initializing
+
+[kernel] : [    0.205877] NetLabel:  domain hash size = 128
+[kernel] : [    º] NetLabel:  domain hash size = 128
+
+[kernel] : [    0.205877] NetLabel:  protocols = UNLABELED CIPSOv4
+[kernel] : [    º] NetLabel:  protocols = UNLABELED CIPSOvº
+
+[kernel] : [    0.205888] NetLabel:  unlabeled traffic allowed by default
+[kernel] : [    º] NetLabel:  unlabeled traffic allowed by default
+
+[kernel] : [    0.205949] clocksource: Switched to clocksource kvm-clock
+[kernel] : [    º] clocksource: Switched to clocksource kvm-ºlº
+
+[kernel] : [    0.206805] AppArmor: AppArmor Filesystem Enabled
+[kernel] : [    º] AppArmor: AppArmor Filesystem Enabled
+
+[kernel] : [    0.206847] pnp: PnP ACPI init
+[kernel] : [    º] pnp: PnP ACPI init
+
+[kernel] : [    0.206895] pnp 00:00: Plug and Play ACPI device  IDs PNP0303 (active)
+[kernel] : [    º] pnp 0º Plug and Play ACPI device  IDs PNºactive)
+
+[kernel] : [    0.206952] pnp 00:01: Plug and Play ACPI device  IDs PNP0f03 (active)
+[kernel] : [    º] pnp 0º: Plug and Play ACPI device  IDs PNºactive)
+
+[kernel] : [    0.207326] pnp: PnP ACPI: found 2 devices
+[kernel] : [    º] pnp: PnP ACPI: fouº º devices
+
+[kernel] : [    0.208165] AppArmor: AppArmor Filesystem Enabled
+[kernel] : [    º] AppArmor: AppArmor Filesystem Enabled
+
+[kernel] : [    0.208213] pnp: PnP ACPI init
+[kernel] : [    º] pnp: PnP ACPI init
+
+[kernel] : [    0.208256] pnp 00:00: Plug and Play ACPI device  IDs PNP0303 (active)
+[kernel] : [    º] pnp 0º Plug and Play ACPI device  IDs PNºactive)
+
+[kernel] : [    0.208298] pnp 00:01: Plug and Play ACPI device  IDs PNP0f03 (active)
+[kernel] : [    º] pnp 0º: Plug and Play ACPI device  IDs PNºactive)
+
+[kernel] : [    0.208618] pnp: PnP ACPI: found 2 devices
+[kernel] : [    º] pnp: PnP ACPI: found º devices
+
+[kernel] : [    0.209994] AppArmor: AppArmor Filesystem Enabled
+[kernel] : [    º] AppArmor: AppArmor Filesystem Enabled
+
+[kernel] : [    0.210034] pnp: PnP ACPI init
+[kernel] : [    º] pnp: PnP ACPI init
+
+[kernel] : [    0.210082] pnp 00:00: Plug and Play ACPI device  IDs PNP0303 (active)
+[kernel] : [    º] pnp 0º Plug and Play ACPI device  IDs PNºactive)
+
+[kernel] : [    0.210123] pnp 00:01: Plug and Play ACPI device  IDs PNP0f03 (active)
+[kernel] : [    º] pnp 0º: Plug and Play ACPI device  IDs PNºactive)
+
+[kernel] : [    0.210355] AppArmor: AppArmor Filesystem Enabled
+[kernel] : [    º] AppArmor: AppArmor Filesystem Enabled
+
+[kernel] : [    0.210397] pnp: PnP ACPI init
+[kernel] : [    º] pnp: PnP ACPI init
+
+[kernel] : [    0.210438] pnp: PnP ACPI: found 2 devices
+[kernel] : [    º] pnp: PnP ACPI: founº º devices
+
+[kernel] : [    0.210445] pnp 00:00: Plug and Play ACPI device  IDs PNP0303 (active)
+[kernel] : [    º] pnp 0º Plug and Play ACPI device  IDs PNºactive)
+
+[kernel] : [    0.210501] pnp 00:01: Plug and Play ACPI device  IDs PNP0f03 (active)
+[kernel] : [    º] pnp 0º: Plug and Play ACPI device  IDs PNºactive)
+
+[kernel] : [    0.210848] pnp: PnP ACPI: found 2 devices
+[kernel] : [    º] pnp: PnP ACPI: found º devices
+
+[kernel] : [    0.212715] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff  max_idle_ns: 2085701024 ns
+[kernel] : [    º] clocksource: acpi_pm: mask: 0xfº max_cycles: 0xfº  max_idle_ns: 2º ns
+
+[kernel] : [    0.212724] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+[kernel] : [    º] pci_bus 0º: resource 4 [io  ºxºcfº window]
+
+[kernel] : [    0.212725] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+[kernel] : [    º] pci_bus 0º: resource 5 [io  º-ºxffº window]
+
+[kernel] : [    0.212726] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+[kernel] : [    º] pci_bus 0º: resource 6 [mem ºxº windoº]
+
+[kernel] : [    0.212728] pci_bus 0000:00: resource 7 [mem 0x30000000-0xffdfffff window]
+[kernel] : [    º] pci_bus 0º: resource 7 [mem º-ºxfºdºindoº]
+
+[kernel] : [    0.212748] NET: Registered protocol family 2
+[kernel] : [    º] NET: Registered protocol family 2
+
+[kernel] : [    0.212860] TCP established hash table entries: 8192 (order: 4  65536 bytes)
+[kernel] : [    º] TCP established hash table entries: 81ºrder: 4  6ºbytes)
+
+[kernel] : [    0.212871] TCP bind hash table entries: 8192 (order: 5  131072 bytes)
+[kernel] : [    º] TCP bind hash table entries: 81ºrder: 5  1º bytes)
+
+[kernel] : [    0.212883] TCP: Hash tables configured (established 8192 bind 8192)
+[kernel] : [    º] TCP: Hash tables configured (established 8ºbind 81º
+
+[kernel] : [    0.212900] UDP hash table entries: 512 (order: 2  16384 bytes)
+[kernel] : [    º] UDP hash table entries: 5º (order: 2  1º bytes)
+
+[kernel] : [    0.212903] UDP-Lite hash table entries: 512 (order: 2  16384 bytes)
+[kernel] : [    º] UDP-Lite hasº table entries: 51º (order: 2  1º bytes)
+
+[kernel] : [    0.212924] NET: Registered protocol family 1
+[kernel] : [    º] NET: Registered protocol family 1
+
+[kernel] : [    0.212933] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[kernel] : [    º] pci 0º:0º Limiting direct PCI/Pº transº
+
+[kernel] : [    0.212949] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+[kernel] : [    º] pci 0º:º Activating ISA DMA hang workarounds
+
+[kernel] : [    0.212966] pci 0000:00:02.0: Video device with shadowed ROM
+[kernel] : [    º] pci 0º:0º Video device with shadowed ROM
+
+[kernel] : [    0.213902] PCI: CLS 0 bytes  default 64
+[kernel] : [    º] PCI: CLS 0 bytes  default 64
+
+[kernel] : [    0.213931] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff  max_idle_ns: 2085701024 ns
+[kernel] : [    º] clocksource: acpi_pm: mask: 0xfº max_cycles: 0xfº  max_idle_ns: 2º ns
+
+[kernel] : [    0.213941] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+[kernel] : [    º] pci_bus 0º: resource 4 [io  ºxºcfº window]
+
+[kernel] : [    0.213941] Trying to unpack rootfs image as initramfs...
+[kernel] : [    º] Trying to unpack rootº image as initramfs.º
+
+[kernel] : [    0.213942] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+[kernel] : [    º] pci_bus 0º: resource 5 [io  º-ºxffº window]
+
+[kernel] : [    0.213944] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+[kernel] : [    º] pci_bus 0º: resource 6 [mem ºxº windoº]
+
+[kernel] : [    0.213945] pci_bus 0000:00: resource 7 [mem 0x30000000-0xffdfffff window]
+[kernel] : [    º] pci_bus 0º: resource 7 [mem º-ºxfºdºindoº]
+
+[kernel] : [    0.213967] NET: Registered protocol family 2
+[kernel] : [    º] NET: Registered protocol family 2
+
+[kernel] : [    0.214083] TCP established hash table entries: 8192 (order: 4  65536 bytes)
+[kernel] : [    º] TCP established hash table entries: 81ºrder: 4  6ºbytes)
+
+[kernel] : [    0.214094] TCP bind hash table entries: 8192 (order: 5  131072 bytes)
+[kernel] : [    º] TCP bind hash table entries: 81ºrder: 5  1º bytes)
+
+[kernel] : [    0.214107] TCP: Hash tables configured (established 8192 bind 8192)
+[kernel] : [    º] TCP: Hash tables configured (established 8ºbind 81º
+
+[kernel] : [    0.214123] UDP hash table entries: 512 (order: 2  16384 bytes)
+[kernel] : [    º] UDP hash table entries: 5º (order: 2  1º bytes)
+
+[kernel] : [    0.214126] UDP-Lite hash table entries: 512 (order: 2  16384 bytes)
+[kernel] : [    º] UDP-º hasº table entries: 51º (order: 2  1º bytes)
+
+[kernel] : [    0.214148] NET: Registered protocol family 1
+[kernel] : [    º] NET: Registered protocol family 1
+
+[kernel] : [    0.214156] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[kernel] : [    º] pci 0º:0º Limiting direct PCI/Pº transº
+
+[kernel] : [    0.214175] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+[kernel] : [    º] pci 0º:0º Activating ISA DMA hang workarounds
+
+[kernel] : [    0.214190] pci 0000:00:02.0: Video device with shadowed ROM
+[kernel] : [    º] pci 0º:0º Video device with shadowed ROM
+
+[kernel] : [    0.215130] PCI: CLS 0 bytes  default 64
+[kernel] : [    º] PCI: CLS 0 bytes  default 64
+
+[kernel] : [    0.215169] Trying to unpack rootfs image as initramfs...
+[kernel] : [    º] Trying to unpack rootº image as initramfs.º
+
+[kernel] : [    0.215852] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff  max_idle_ns: 2085701024 ns
+[kernel] : [    º] clocksource: acpi_pm: mask: 0xfº max_cycles: 0xfº  max_idle_ns: 2º ns
+
+[kernel] : [    0.215861] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+[kernel] : [    º] pci_bus 0º: resource 4 [io  ºxºcfº window]
+
+[kernel] : [    0.215862] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+[kernel] : [    º] pci_bus 0º: resource 5 [io  º-ºxffº window]
+
+[kernel] : [    0.215863] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+[kernel] : [    º] pci_bus 0º: resource 6 [mem ºxº windoº]
+
+[kernel] : [    0.215864] pci_bus 0000:00: resource 7 [mem 0x30000000-0xffdfffff window]
+[kernel] : [    º] pci_bus 0º: resource 7 [mem º-ºxfºdºindoº]
+
+[kernel] : [    0.215884] NET: Registered protocol family 2
+[kernel] : [    º] NET: Registered protocol family 2
+
+[kernel] : [    0.215993] TCP established hash table entries: 8192 (order: 4  65536 bytes)
+[kernel] : [    º] TCP established hash table entries: 81ºrder: 4  6ºbytes)
+
+[kernel] : [    0.216020] TCP bind hash table entries: 8192 (order: 5  131072 bytes)
+[kernel] : [    º] TCP bind hash table entries: 81ºrder: 5  1º bytes)
+
+[kernel] : [    0.216032] TCP: Hash tables configured (established 8192 bind 8192)
+[kernel] : [    º] TCP: Hash tables configured (established 8ºbind 81º
+
+[kernel] : [    0.216048] UDP hash table entries: 512 (order: 2  16384 bytes)
+[kernel] : [    º] UDP hasº table entries: 5º (order: 2  1º bytes)
+
+[kernel] : [    0.216051] UDP-Lite hash table entries: 512 (order: 2  16384 bytes)
+[kernel] : [    º] UDP-Liº hasº table entries: 51º (order: 2  1º bytes)
+
+[kernel] : [    0.216073] NET: Registered protocol family 1
+[kernel] : [    º] NET: Registered protocol family 1
+
+[kernel] : [    0.216082] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[kernel] : [    º] pci 0º:0º Limiting direct PCI/Pº transº
+
+[kernel] : [    0.216097] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+[kernel] : [    º] pci 0º:0º Activating ISA DMA hang workarounds
+
+[kernel] : [    0.216112] pci 0000:00:02.0: Video device with shadowed ROM
+[kernel] : [    º] pci 0º:0º Video device with shadowed ROM
+
+[kernel] : [    0.216165] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff  max_idle_ns: 2085701024 ns
+[kernel] : [    º] clocksource: acpi_pm: mask: 0xfº max_cycles: 0xfº  max_idle_ns: 2º ns
+
+[kernel] : [    0.216174] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+[kernel] : [    º] pci_bus 0º: resource 4 [io  ºxºcfº window]
+
+[kernel] : [    0.216176] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+[kernel] : [    º] pci_bus 0º: resource 5 [io  º-ºxffº window]
+
+[kernel] : [    0.216177] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+[kernel] : [    º] pci_bus 0º: resource 6 [mem ºxº windoº]
+
+[kernel] : [    0.216178] pci_bus 0000:00: resource 7 [mem 0x30000000-0xffdfffff window]
+[kernel] : [    º] pci_bus 0º: resource 7 [mem º-ºxfºdºindoº]
+
+[kernel] : [    0.216201] NET: Registered protocol family 2
+[kernel] : [    º] NET: Registered protocol family 2
+
+[kernel] : [    0.216379] TCP established hash table entries: 8192 (order: 4  65536 bytes)
+[kernel] : [    º] TCP established hash table entries: 81ºrder: 4  6ºbytes)
+
+[kernel] : [    0.216390] TCP bind hash table entries: 8192 (order: 5  131072 bytes)
+[kernel] : [    º] TCP bind hash table entries: 81ºrder: 5  1º bytes)
+
+[kernel] : [    0.216403] TCP: Hash tables configured (established 8192 bind 8192)
+[kernel] : [    º] TCP: Hash tables configured (established 8ºbind 81º
+
+[kernel] : [    0.216419] UDP hash table entries: 512 (order: 2  16384 bytes)
+[kernel] : [    º] UDP hasº table entries: 5º (order: 2  1º bytes)
+
+[kernel] : [    0.216422] UDP-Lite hash table entries: 512 (order: 2  16384 bytes)
+[kernel] : [    º] UDP-Liº hasº table entries: 51º (order: 2  1º bytes)
+
+[kernel] : [    0.216445] NET: Registered protocol family 1
+[kernel] : [    º] NET: Registered protocol family 1
+
+[kernel] : [    0.216453] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[kernel] : [    º] pci 0º:0º Limiting direct PCI/Pº transº
+
+[kernel] : [    0.216469] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+[kernel] : [    º] pci 0º:º Activating ISA DMA hang workarounds
+
+[kernel] : [    0.216487] pci 0000:00:02.0: Video device with shadowed ROM
+[kernel] : [    º] pci 0º:0º Video device with shadowed ROM
+
+[kernel] : [    0.217038] PCI: CLS 0 bytes  default 64
+[kernel] : [    º] PCI: CLS 0 bytes  default 64
+
+[kernel] : [    0.217079] Trying to unpack rootfs image as initramfs...
+[kernel] : [    º] Trying to unpack rootº image as initramfs.º
+
+[kernel] : [    0.217430] PCI: CLS 0 bytes  default 64
+[kernel] : [    º] PCI: CLS 0 bytes  default 64
+
+[kernel] : [    0.217505] Trying to unpack rootfs image as initramfs...
+[kernel] : [    º] Trying to unpack rootº image as initramfs.º
+
+[kernel] : [    0.599810] Freeing initrd memory: 35348K (ffff88002d179000 - ffff88002f3fe000)
+[kernel] : [    º] Freeing initrd memory: 3º (fº º
+
+[kernel] : [    0.600012] platform rtc_cmos: registered platform RTC device (no PNP device found)
+[kernel] : [    º] platform rtc_cmos: registered platform RTC device (no PNº devicº º
+
+[kernel] : [    0.600033] Scanning for low memory corruption every 60 seconds
+[kernel] : [    º] Scanning for low memºry corruption every ºseconds
+
+[kernel] : [    0.600215] futex hash table entries: 256 (order: 2  16384 bytes)
+[kernel] : [    º] futex hash table entries: 25º (order: 2  1º bytes)
+
+[kernel] : [    0.600229] audit: initializing netlink subsys (disabled)
+[kernel] : [    º] audit: initializing netlink subsys (disabled)
+
+[kernel] : [    0.600239] audit: type=2000 audit(1466533849.454:1): initialized
+[kernel] : [    º] audit: type=2ºaudit(1ºiºitialized
+
+[kernel] : [    0.600434] Initialise system trusted keyring
+[kernel] : [    º] Initialise system trusted keyring
+
+[kernel] : [    0.600490] HugeTLB registered 2 MB page size  pre-allocated 0 pages
+[kernel] : [    º] HugeTLB registered 2 MB page size  pre-allocated 0 pages
+
+[kernel] : [    0.601373] zbud: loaded
+[kernel] : [    º] zbud: loaded
+
+[kernel] : [    0.601490] VFS: Disk quotas dquot_6.6.0
+[kernel] : [    º] VFS: Disº quoºs dquot_º
+
+[kernel] : [    0.601509] VFS: Dquot-cache hash table entries: 512 (order 0  4096 bytes)
+[kernel] : [    º] VFS: Dquº ºsº table entries: 51º (order 0  4º bytes)
+
+[kernel] : [    0.601774] fuse init (API version 7.23)
+[kernel] : [    º] fuse init (API version 7º
+
+[kernel] : [    0.601850] Key type big_key registered
+[kernel] : [    º] Key type big_key registered
+
+[kernel] : [    0.601864] Allocating IMA MOK and blacklist keyrings.
+[kernel] : [    º] Allocating IMA MOº and blacklist keyrings.
+
+[kernel] : [    0.601998] Key type asymmetric registered
+[kernel] : [    º] Key type asymmetric registered
+
+[kernel] : [    0.602003] Asymmetric key parser 'x509' registered
+[kernel] : [    º] Asymmetric key parser 'x5ºregistº
+
+[kernel] : [    0.602027] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 249)
+[kernel] : [    º] Block layer SCSI generic (bsg) driver version 0ºded (major 2º
+
+[kernel] : [    0.602040] io scheduler noop registered
+[kernel] : [    º] io scheduler noop registeredº
+
+[kernel] : [    0.602043] io scheduler deadline registered (default)
+[kernel] : [    º] io scheduler deadline registered (deºlt)
+
+[kernel] : [    0.602064] io scheduler cfq registered
+[kernel] : [    º] io scheduler cfq registered
+
+[kernel] : [    0.602154] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[kernel] : [    º] pci_hotplug: PCI Hot Plug PCI Core version: º
+
+[kernel] : [    0.602157] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+[kernel] : [    º] pciehp: PCI Express Hot Plug Conºroller Driver versioº: º
+
+[kernel] : [    0.602269] ACPI: AC Adapter [AC] (on-line)
+[kernel] : [    º] ACPI: AC Adapter [AC] (on-lineº
+
+[kernel] : [    0.602305] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+[kernel] : [    º] input: Power Button as /dºiº
+
+[kernel] : [    0.602307] ACPI: Power Button [PWRF]
+[kernel] : [    º] ACPI: Power Button [PWRº
+
+[kernel] : [    0.602361] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+[kernel] : [    º] input: Sleep Buttoº as /ºiº
+
+[kernel] : [    0.602362] ACPI: Sleep Button [SLPF]
+[kernel] : [    º] ACPI: Sleep Button [SLº
+
+[kernel] : [    0.602442] GHES: HEST is not enabled!
+[kernel] : [    º] GHES: HEST is not enabled!
+
+[kernel] : [    0.602855] ACPI: Battery Slot [BAT0] (battery present)
+[kernel] : [    º] ACPI: Battery Slot [BATº (battery present)
+
+[kernel] : [    0.602877] Serial: 8250/16550 driver  32 ports  IRQ sharing enabled
+[kernel] : [    º] Serial: 82ºriver  3º ports  IRQ sharing enabled
+
+[kernel] : [    0.603674] Linux agpgart interface v0.103
+[kernel] : [    º] Linux agpgart interface vº
+
+[kernel] : [    0.604814] brd: module loaded
+[kernel] : [    º] brd: module loaded
+
+[kernel] : [    0.605301] loop: module loaded
+[kernel] : [    º] loop: module loaded
+
+[kernel] : [    0.605381] ata_piix 0000:00:01.1: version 2.13
+[kernel] : [    º] ata_piix 00º:º: version 2º
+
+[kernel] : [    0.605631] scsi host0: ata_piix
+[kernel] : [    º] scsi host0: ata_piix
+
+[kernel] : [    0.605666] scsi host1: ata_piix
+[kernel] : [    º] scsi host1: ata_piix
+
+[kernel] : [    0.605686] ata1: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+[kernel] : [    º] ata1: PATA max UDMAºd ºxºtl 0xº bmdma 0xdº irq 14
+
+[kernel] : [    0.605687] ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+[kernel] : [    º] ata2: PATA max UDMAºd ºxºtl 0xº bmdma 0xdº irq 1º
+
+[kernel] : [    0.605732] libphy: Fixed MDIO Bus: probed
+[kernel] : [    º] libphy: Fixed MDIº Bus: probed
+
+[kernel] : [    0.605734] tun: Universal TUN/TAP device driver  1.6
+[kernel] : [    º] tun: Universal TUº driver  1º
+
+[kernel] : [    0.605735] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+[kernel] : [    º] tun: (C) 1ºx Krasnyansº ºxºlcommº
+
+[kernel] : [    0.605970] PPP generic driver version 2.4.2
+[kernel] : [    º] PPP generic driver version º
+
+[kernel] : [    0.606024] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[kernel] : [    º] ehci_hcd: USB 2ºnhanºr (EHº Driver
+
+[kernel] : [    0.606028] ehci-pci: EHCI PCI platform driver
+[kernel] : [    º] ehci-pci: EHCI PCI platform driver
+
+[kernel] : [    0.606035] ehci-platform: EHCI generic platform driver
+[kernel] : [    º] ehci-platform: EHCI generic platform driver
+
+[kernel] : [    0.606042] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[kernel] : [    º] ohci_hcd: USB 1.º ºr (º Driver
+
+[kernel] : [    0.606045] ohci-pci: OHCI PCI platform driver
+[kernel] : [    º] ohci-pci: OHCI PCI platform driver
+
+[kernel] : [    0.606366] ohci-pci 0000:00:06.0: OHCI PCI host controller
+[kernel] : [    º] ohci-pci 0º:º OºI PCI host controller
+
+[kernel] : [    0.606373] ohci-pci 0000:00:06.0: new USB bus registered  assigned bus number 1
+[kernel] : [    º] ohci-pci 0º:º new USB bus registered  assigned bus number 1
+
+[kernel] : [    0.606424] ohci-pci 0000:00:06.0: irq 22  io mem 0xf0804000
+[kernel] : [    º] ohci-pci 0º:º irq 2º  io mem 0xfº
+
+[kernel] : [    0.612885] Freeing initrd memory: 35348K (ffff88002d179000 - ffff88002f3fe000)
+[kernel] : [    º] Freeing initrd memory: 3º (fº º
+
+[kernel] : [    0.613106] platform rtc_cmos: registered platform RTC device (no PNP device found)
+[kernel] : [    º] platform rtc_cmos: registered platform RTC device (no PNº devicº º
+
+[kernel] : [    0.613128] Scanning for low memory corruption every 60 seconds
+[kernel] : [    º] Scanning for low memory corruption every ºseconds
+
+[kernel] : [    0.613300] futex hash table entries: 256 (order: 2  16384 bytes)
+[kernel] : [    º] futex hash table entries: 25º (order: 2  1º bytes)
+
+[kernel] : [    0.613314] audit: initializing netlink subsys (disabled)
+[kernel] : [    º] audit: initializing netlink subsys (disabled)
+
+[kernel] : [    0.613325] audit: type=2000 audit(1467205191.284:1): initialized
+[kernel] : [    º] audit: type=2ºaudit(1º initialized
+
+[kernel] : [    0.613518] Initialise system trusted keyring
+[kernel] : [    º] Initialise system trusted keyring
+
+[kernel] : [    0.613575] HugeTLB registered 2 MB page size  pre-allocated 0 pages
+[kernel] : [    º] HugeTLB registered 2 MB page size  pre-allocated 0 pages
+
+[kernel] : [    0.614205] Freeing initrd memory: 35348K (ffff88002d179000 - ffff88002f3fe000)
+[kernel] : [    º] Freeing initrd memory: 3º (fº º
+
+[kernel] : [    0.614454] platform rtc_cmos: registered platform RTC device (no PNP device found)
+[kernel] : [    º] platfºrm rtc_cmºs: registered platform RTC device (no PNº devicº º
+
+[kernel] : [    0.614461] zbud: loaded
+[kernel] : [    º] zbud: loaded
+
+[kernel] : [    0.614476] Scanning for low memory corruption every 60 seconds
+[kernel] : [    º] Scanning for low memory corruption every ºseconds
+
+[kernel] : [    0.614579] VFS: Disk quotas dquot_6.6.0
+[kernel] : [    º] VFS: Disº quoºs dquot_º
+
+[kernel] : [    0.614597] VFS: Dquot-cache hash table entries: 512 (order 0  4096 bytes)
+[kernel] : [    º] VFS: Dºsº table entries: 51º (order 0  4º bytes)
+
+[kernel] : [    0.614675] futex hash table entries: 256 (order: 2  16384 bytes)
+[kernel] : [    º] futex hash table entries: 25º (order: 2  1º bytes)
+
+[kernel] : [    0.614688] audit: initializing netlink subsys (disabled)
+[kernel] : [    º] audit: initializing netlink subsys (disabled)
+
+[kernel] : [    0.614699] audit: type=2000 audit(1466534438.314:1): initialized
+[kernel] : [    º] audit: type=ºaudit(1º initialized
+
+[kernel] : [    0.614865] fuse init (API version 7.23)
+[kernel] : [    º] fuse init (API version 7º
+
+[kernel] : [    0.614893] Initialise system trusted keyring
+[kernel] : [    º] Initialise system trusted keyring
+
+[kernel] : [    0.614941] Key type big_key registered
+[kernel] : [    º] Key type big_key registered
+
+[kernel] : [    0.614945] HugeTLB registered 2 MB page size  pre-allocated 0 pages
+[kernel] : [    º] Hugeº registered 2 MB page size  pre-allocated 0 pages
+
+[kernel] : [    0.614955] Allocating IMA MOK and blacklist keyrings.
+[kernel] : [    º] Allocating IMA MOK and blacklist keyrings.
+
+[kernel] : [    0.615080] Key type asymmetric registered
+[kernel] : [    º] Key type asymmetric registered
+
+[kernel] : [    0.615084] Asymmetric key parser 'x509' registered
+[kernel] : [    º] Asymmetric key parser 'x5ºregistº
+
+[kernel] : [    0.615115] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 249)
+[kernel] : [    º] Block layer SCSI generic (bsg) driver version 0ºded (major 2º
+
+[kernel] : [    0.615128] io scheduler noop registered
+[kernel] : [    º] io scheduler noop registeredº
+
+[kernel] : [    0.615131] io scheduler deadline registered (default)
+[kernel] : [    º] io scheduler deadline registered (deºlt)
+
+[kernel] : [    0.615152] io scheduler cfq registered
+[kernel] : [    º] io scheduler cfq registered
+
+[kernel] : [    0.615206] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[kernel] : [    º] pci_hotplug: PCI Hot Plug PCI Core version: º
+
+[kernel] : [    0.615210] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+[kernel] : [    º] pciehp: PCI Express Hot Plug Conºroller Driver versioº: º
+
+[kernel] : [    0.615309] ACPI: AC Adapter [AC] (on-line)
+[kernel] : [    º] ACPI: AC Adapter [AC] (on-lineº
+
+[kernel] : [    0.615345] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+[kernel] : [    º] input: Power Buttoº as /dºiº
+
+[kernel] : [    0.615348] ACPI: Power Button [PWRF]
+[kernel] : [    º] ACPI: Power Button [PWRº
+
+[kernel] : [    0.615395] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+[kernel] : [    º] input: Sleep Button as /ºiº
+
+[kernel] : [    0.615396] ACPI: Sleep Button [SLPF]
+[kernel] : [    º] ACPI: Sleep Button [SLº
+
+[kernel] : [    0.615476] GHES: HEST is not enabled!
+[kernel] : [    º] GHES: HEST is not enabled!
+

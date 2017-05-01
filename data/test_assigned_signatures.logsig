@@ -1,0 +1,200 @@
+[kernel] : [    º] NetLabel:  unlabeled traffic allowed by default
+[kernel] : [    º] clocksource: Switched to clocksource kvm-clock
+[kernel] : [    º] ACPI: PCI Interrupt Link [º] (IRQs º º º º)
+[kernel] : [    º] ACPI: PCI Interrupt Link [º] (IRQs º º º º)
+[kernel] : [    º] ACPI: PCI Interrupt Link [º] (IRQs º º º º)
+[kernel] : [    º] ACPI: PCI Interrupt Link [º] (IRQs º º º º)
+[kernel] : [    º] ACPI: Enabled º GPEs in block º to º
+[kernel] : [    º] vgaarb: setting as boot device: PCI:º:º:º.º
+[kernel] : [    º] vgaarb: device added: PCI:º:º:º.º decodes=º owns=º locks=º
+[kernel] : [    º] vgaarb: bridge control possible º:º:º.º
+[kernel] : [    º] vgaarb: loaded
+[kernel] : [    º] SCSI subsystem initialized
+[kernel] : [    º] libata version º loaded.
+[kernel] : [    º] ACPI: bus type º registered
+[kernel] : [    º] º: registered new interface driver º
+[kernel] : [    º] º: registered new interface driver º
+[kernel] : [    º] º: registered new device driver º
+[kernel] : [    º] PCI: Using ACPI for IRQ routing
+[kernel] : [    º] PCI: pci_cache_line_size set to º bytes
+[kernel] : [    º] e820: reserve RAM buffer [º 0xº-0xº]
+[kernel] : [    º] e820: reserve RAM buffer [º 0xº-0xº]
+[kernel] : [    º] NetLabel: Initializing
+[kernel] : [    º] NetLabel:  domain hash size = º
+[kernel] : [    º] NetLabel:  protocols = UNLABELED CIPSOv4
+[kernel] : [    º] NetLabel:  unlabeled traffic allowed by default
+[kernel] : [    º] clocksource: Switched to clocksource kvm-clock
+[kernel] : [    º] AppArmor: AppArmor Filesystem Enabled
+[kernel] : [    º] pnp: PnP ACPI init
+[kernel] : [    º] pnp º:º: Plug and Play ACPI device  IDs º (º)
+[kernel] : [    º] pnp º:º: Plug and Play ACPI device  IDs º (º)
+[kernel] : [    º] pnp: PnP ACPI: found º devices
+[kernel] : [    º] AppArmor: AppArmor Filesystem Enabled
+[kernel] : [    º] pnp: PnP ACPI init
+[kernel] : [    º] pnp º:º: Plug and Play ACPI device  IDs º (º)
+[kernel] : [    º] pnp º:º: Plug and Play ACPI device  IDs º (º)
+[kernel] : [    º] pnp: PnP ACPI: found º devices
+[kernel] : [    º] AppArmor: AppArmor Filesystem Enabled
+[kernel] : [    º] pnp: PnP ACPI init
+[kernel] : [    º] pnp º:º: Plug and Play ACPI device  IDs º (º)
+[kernel] : [    º] pnp º:º: Plug and Play ACPI device  IDs º (º)
+[kernel] : [    º] AppArmor: AppArmor Filesystem Enabled
+[kernel] : [    º] pnp: PnP ACPI init
+[kernel] : [    º] pnp: PnP ACPI: found º devices
+[kernel] : [    º] pnp º:º: Plug and Play ACPI device  IDs º (º)
+[kernel] : [    º] pnp º:º: Plug and Play ACPI device  IDs º (º)
+[kernel] : [    º] pnp: PnP ACPI: found º devices
+[kernel] : [    º] clocksource: acpi_pm: mask: 0xº max_cycles: 0xº  max_idle_ns: º ns
+[kernel] : [    º] pci_bus º:º: resource º [º  0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º  0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º 0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º 0xº-0xº º]
+[kernel] : [    º] NET: Registered protocol family º
+[kernel] : [    º] TCP established hash table entries: º (order: º  º bytes)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] TCP: Hash tables configured (established º bind º)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] NET: Registered protocol family º
+[kernel] : [    º] pci º:º:º.º: Limiting direct PCI/PCI transfers
+[kernel] : [    º] pci º:º:º.º: Activating ISA DMA hang workarounds
+[kernel] : [    º] pci º:º:º.º: Video device with shadowed ROM
+[kernel] : [    º] PCI: CLS º bytes  default º
+[kernel] : [    º] clocksource: acpi_pm: mask: 0xº max_cycles: 0xº  max_idle_ns: º ns
+[kernel] : [    º] pci_bus º:º: resource º [º  0xº-0xº º]
+[kernel] : [    º] Trying to unpack rootfs image as initramfs...
+[kernel] : [    º] pci_bus º:º: resource º [º  0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º 0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º 0xº-0xº º]
+[kernel] : [    º] NET: Registered protocol family º
+[kernel] : [    º] TCP established hash table entries: º (order: º  º bytes)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] TCP: Hash tables configured (established º bind º)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] NET: Registered protocol family º
+[kernel] : [    º] pci º:º:º.º: Limiting direct PCI/PCI transfers
+[kernel] : [    º] pci º:º:º.º: Activating ISA DMA hang workarounds
+[kernel] : [    º] pci º:º:º.º: Video device with shadowed ROM
+[kernel] : [    º] PCI: CLS º bytes  default º
+[kernel] : [    º] Trying to unpack rootfs image as initramfs...
+[kernel] : [    º] clocksource: acpi_pm: mask: 0xº max_cycles: 0xº  max_idle_ns: º ns
+[kernel] : [    º] pci_bus º:º: resource º [º  0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º  0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º 0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º 0xº-0xº º]
+[kernel] : [    º] NET: Registered protocol family º
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] TCP: Hash tables configured (established º bind º)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] NET: Registered protocol family º
+[kernel] : [    º] pci º:º:º.º: Limiting direct PCI/PCI transfers
+[kernel] : [    º] pci º:º:º.º: Activating ISA DMA hang workarounds
+[kernel] : [    º] pci º:º:º.º: Video device with shadowed ROM
+[kernel] : [    º] clocksource: acpi_pm: mask: 0xº max_cycles: 0xº  max_idle_ns: º ns
+[kernel] : [    º] pci_bus º:º: resource º [º  0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º  0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º 0xº-0xº º]
+[kernel] : [    º] pci_bus º:º: resource º [º 0xº-0xº º]
+[kernel] : [    º] NET: Registered protocol family º
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] TCP: Hash tables configured (established º bind º)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] NET: Registered protocol family º
+[kernel] : [    º] pci º:º:º.º: Limiting direct PCI/PCI transfers
+[kernel] : [    º] pci º:º:º.º: Activating ISA DMA hang workarounds
+[kernel] : [    º] pci º:º:º.º: Video device with shadowed ROM
+[kernel] : [    º] PCI: CLS º bytes  default º
+[kernel] : [    º] Trying to unpack rootfs image as initramfs...
+[kernel] : [    º] PCI: CLS º bytes  default º
+[kernel] : [    º] Trying to unpack rootfs image as initramfs...
+[kernel] : [    º] Freeing initrd memory: ºK (º - º)
+[kernel] : [    º] platform rtc_cmos: registered platform RTC device (no PNP device found)
+[kernel] : [    º] Scanning for low memory corruption every º seconds
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] audit: initializing netlink subsys (º)
+[kernel] : [    º] audit: type=º audit(º:º): initialized
+[kernel] : [    º] Initialise system trusted keyring
+[kernel] : [    º] HugeTLB registered º MB page size  pre-allocated º pages
+[kernel] : [    º] zbud: loaded
+[kernel] : [    º] VFS: Disk quotas º
+[kernel] : [    º] VFS: º hash table entries: º (order º  º bytes)
+[kernel] : [    º] fuse init (API version º)
+[kernel] : [    º] Key type º registered
+[kernel] : [    º] Allocating IMA MOK and blacklist keyrings.
+[kernel] : [    º] Key type º registered
+[kernel] : [    º] Asymmetric key parser 'º' registered
+[kernel] : [    º] Block layer SCSI generic (bsg) driver version º loaded (major º)
+[kernel] : [    º] io scheduler º registered
+[kernel] : [    º] io scheduler º registered (º)
+[kernel] : [    º] io scheduler º registered
+[kernel] : [    º] pci_hotplug: º version: º
+[kernel] : [    º] pciehp: º version: º
+[kernel] : [    º] ACPI: AC Adapter [º] (º)
+[kernel] : [    º] input: º as º
+[kernel] : [    º] ACPI: º [º]
+[kernel] : [    º] input: º as º
+[kernel] : [    º] ACPI: º [º]
+[kernel] : [    º] GHES: HEST is not enabled!
+[kernel] : [    º] ACPI: Battery Slot [º] (battery º)
+[kernel] : [    º] Serial: 8250/16550 driver  º ports  IRQ sharing ºabled
+[kernel] : [    º] Linux agpgart interface vº.º
+[kernel] : [    º] brd: module loaded
+[kernel] : [    º] loop: module loaded
+[kernel] : [    º] ata_piix º:º:º.º: version º.º
+[kernel] : [    º] scsi º: º
+[kernel] : [    º] scsi º: º
+[kernel] : [    º] º: PATA max º cmd 0xº ctl 0xº bmdma 0xº irq º
+[kernel] : [    º] º: PATA max º cmd 0xº ctl 0xº bmdma 0xº irq º
+[kernel] : [    º] libphy: Fixed MDIO Bus: probed
+[kernel] : [    º] tun: º driver  º
+[kernel] : [    º] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+[kernel] : [    º] PPP generic driver version º
+[kernel] : [    º] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[kernel] : [    º] ehci-pci: EHCI PCI platform driver
+[kernel] : [    º] ehci-platform: EHCI generic platform driver
+[kernel] : [    º] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[kernel] : [    º] ohci-pci: OHCI PCI platform driver
+[kernel] : [    º] ohci-pci º:º:º.º: OHCI PCI host controller
+[kernel] : [    º] ohci-pci º:º:º.º: new USB bus registered  assigned bus number º
+[kernel] : [    º] ohci-pci º:º:º.º: irq º  io mem 0xº
+[kernel] : [    º] Freeing initrd memory: ºK (º - º)
+[kernel] : [    º] platform rtc_cmos: registered platform RTC device (no PNP device found)
+[kernel] : [    º] Scanning for low memory corruption every º seconds
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] audit: initializing netlink subsys (º)
+[kernel] : [    º] audit: type=º audit(º:º): initialized
+[kernel] : [    º] Initialise system trusted keyring
+[kernel] : [    º] HugeTLB registered º MB page size  pre-allocated º pages
+[kernel] : [    º] Freeing initrd memory: ºK (º - º)
+[kernel] : [    º] platform rtc_cmos: registered platform RTC device (no PNP device found)
+[kernel] : [    º] zbud: loaded
+[kernel] : [    º] Scanning for low memory corruption every º seconds
+[kernel] : [    º] VFS: Disk quotas º
+[kernel] : [    º] VFS: º hash table entries: º (order º  º bytes)
+[kernel] : [    º] º hash table entries: º (order: º  º bytes)
+[kernel] : [    º] audit: initializing netlink subsys (º)
+[kernel] : [    º] audit: type=º audit(º:º): initialized
+[kernel] : [    º] fuse init (API version º)
+[kernel] : [    º] Initialise system trusted keyring
+[kernel] : [    º] Key type º registered
+[kernel] : [    º] HugeTLB registered º MB page size  pre-allocated º pages
+[kernel] : [    º] Allocating IMA MOK and blacklist keyrings.
+[kernel] : [    º] Key type º registered
+[kernel] : [    º] Asymmetric key parser 'º' registered
+[kernel] : [    º] Block layer SCSI generic (bsg) driver version º loaded (major º)
+[kernel] : [    º] io scheduler º registered
+[kernel] : [    º] io scheduler º registered (º)
+[kernel] : [    º] io scheduler º registered
+[kernel] : [    º] pci_hotplug: PCI Hot Plug PCI Core version: º
+[kernel] : [    º] pciehp: PCI Express Hot Plug Controller Driver version: º
+[kernel] : [    º] ACPI: AC Adapter [º] (º)
+[kernel] : [    º] input: º as º
+[kernel] : [    º] ACPI: º [º]
+[kernel] : [    º] input: º as º
+[kernel] : [    º] ACPI: º [º]
+[kernel] : [    º] GHES: HEST is not enabled!

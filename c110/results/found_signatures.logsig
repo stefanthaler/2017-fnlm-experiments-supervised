@@ -1,0 +1,110 @@
+[kernel] : [    º] input: Sleep Buttoº as /ºiº
+[kernel] : [    º] ACPI: PCI Interrupt Link [Lº] (IRQs 5 9 1º *º)
+[kernel] : [    º] audit: type=ºaudit(1º initialized
+[kernel] : [    º] e82º: reserve RAM bufºr [mem º
+[kernel] : [    º] audit: type=2ºaudit(1ºiºitialized
+[kernel] : [    º] zbud: loaded
+[kernel] : [    º] vgaarb: device added: PCI:0º:ºecodes=ioº owns=iº locks=nºne
+[kernel] : [    º] pci 0º:0º Activating ISA DMA hang workarounds
+[kernel] : [    º] Linux agpgart interface vº
+[kernel] : [    º] pci 0º:0º Video device with shadowed ROM
+[kernel] : [    º] Block layer SCSI generic (bsg) driver version 0ºded (major 2º
+[kernel] : [    º] tun: Universal TUº driver  1º
+[kernel] : [    º] PCI: CLS 0 bytes  default 64
+[kernel] : [    º] input: Sleep Button as /ºiº
+[kernel] : [    º] UDP-º hasº table entries: 51º (order: 2  1º bytes)
+[kernel] : [    º] ACPI: bus type USB registered
+[kernel] : [    º] pci_bus 0º: resource 7 [mem º-ºxfºdºindoº]
+[kernel] : [    º] NET: Registered protocol family 2
+[kernel] : [    º] scsi host0: ata_piix
+[kernel] : [    º] TCP bind hash table entries: 81ºrder: 5  1º bytes)
+[kernel] : [    º] usbcore: registered new interface driver usbfs
+[kernel] : [    º] Key type asymmetric registered
+[kernel] : [    º] pci_hotplug: PCI Hot Plug PCI Core version: º
+[kernel] : [    º] libata version 3ºoadedº
+[kernel] : [    º] vgaarb: bridge control possible 0º:0º
+[kernel] : [    º] io scheduler deadline registered (deºlt)
+[kernel] : [    º] pciehp: PCI Express Hot Plug Conºroller Driver versioº: º
+[kernel] : [    º] ohci_hcd: USB 1.º ºr (º Driver
+[kernel] : [    º] ata2: PATA max UDMAºd ºxºtl 0xº bmdma 0xdº irq 1º
+[kernel] : [    º] vgaarb: loaded
+[kernel] : [    º] ata1: PATA max UDMAºd ºxºtl 0xº bmdma 0xdº irq 14
+[kernel] : [    º] Allocating IMA MOK and blacklist keyrings.
+[kernel] : [    º] io scheduler cfq registered
+[kernel] : [    º] ACPI: Sleep Button [SLº
+[kernel] : [    º] ohci-pci 0º:º OºI PCI host controller
+[kernel] : [    º] io scheduler noop registeredº
+[kernel] : [    º] UDP hash table entries: 5º (order: 2  1º bytes)
+[kernel] : [    º] Initialise system trusted keyring
+[kernel] : [    º] UDP-Lite hasº table entries: 51º (order: 2  1º bytes)
+[kernel] : [    º] vgaarb: setting as boot device: PCI:0º:º
+[kernel] : [    º] ACPI: AC Adapter [AC] (on-lineº
+[kernel] : [    º] pnp 0º: Plug and Play ACPI device  IDs PNºactive)
+[kernel] : [    º] Scanning for low memºry corruption every ºseconds
+[kernel] : [    º] ACPI: Battery Slot [BATº (battery present)
+[kernel] : [    º] ata_piix 00º:º: version 2º
+[kernel] : [    º] Trying to unpack rootº image as initramfs.º
+[kernel] : [    º] usbcore: registered new interface driver hub
+[kernel] : [    º] platfºrm rtc_cmºs: registered platform RTC device (no PNº devicº º
+[kernel] : [    º] input: Power Button as /dºiº
+[kernel] : [    º] Freeing initrd memory: 3º (fº º
+[kernel] : [    º] UDP-Liº hasº table entries: 51º (order: 2  1º bytes)
+[kernel] : [    º] NetLabel:  protocols = UNLABELED CIPSOvº
+[kernel] : [    º] GHES: HEST is not enabled!
+[kernel] : [    º] pci_bus 0º: resource 6 [mem ºxº windoº]
+[kernel] : [    º] NetLabel:  unlabeled traffic allowed by default
+[kernel] : [    º] pnp: PnP ACPI: found º devices
+[kernel] : [    º] tun: (C) 1ºx Krasnyansº ºxºlcommº
+[kernel] : [    º] Asymmetric key parser 'x5ºregistº
+[kernel] : [    º] SCSI subsystem initialized
+[kernel] : [    º] fuse init (API version 7º
+[kernel] : [    º] ehci-pci: EHCI PCI platform driver
+[kernel] : [    º] VFS: Dºsº table entries: 51º (order 0  4º bytes)
+[kernel] : [    º] pnp: PnP ACPI init
+[kernel] : [    º] ohci-pci 0º:º irq 2º  io mem 0xfº
+[kernel] : [    º] TCP: Hash tables configured (established 8ºbind 81º
+[kernel] : [    º] ehci-platform: EHCI generic platform driver
+[kernel] : [    º] NET: Registered protocol family 1
+[kernel] : [    º] ACPI: PCI Interrupt Link [Lº (IRQs 5 9 *1º º)
+[kernel] : [    º] TCP established hash table entries: 81ºrder: 4  6ºbytes)
+[kernel] : [    º] clocksource: acpi_pm: mask: 0xfº max_cycles: 0xfº  max_idle_ns: 2º ns
+[kernel] : [    º] pnp: PnP ACPI: fouº º devices
+[kernel] : [    º] platform rtc_cmos: registered platform RTC device (no PNº devicº º
+[kernel] : [    º] PCI: Using ACPI for IRQ routing
+[kernel] : [    º] pci_bus 0º: resource 5 [io  º-ºxffº window]
+[kernel] : [    º] ACPI: Power Button [PWRº
+[kernel] : [    º] VFS: Dquº ºsº table entries: 51º (order 0  4º bytes)
+[kernel] : [    º] usbcore: registered new device driver usb
+[kernel] : [    º] Serial: 82ºriver  3º ports  IRQ sharing enabled
+[kernel] : [    º] NetLabel: Initializing
+[kernel] : [    º] brd: module loaded
+[kernel] : [    º] Key type big_key registered
+[kernel] : [    º] futex hash table entries: 25º (order: 2  1º bytes)
+[kernel] : [    º] ohci-pci: OHCI PCI platform driver
+[kernel] : [    º] clocksource: Switched to clocksource kvm-ºlº
+[kernel] : [    º] PPP generic driver version º
+[kernel] : [    º] Scanning for low memory corruption every ºseconds
+[kernel] : [    º] pci 0º:º Activating ISA DMA hang workarounds
+[kernel] : [    º] HugeTLB registered 2 MB page size  pre-allocated 0 pages
+[kernel] : [    º] pci_bus 0º: resource 4 [io  ºxºcfº window]
+[kernel] : [    º] scsi host1: ata_piix
+[kernel] : [    º] input: Power Buttoº as /dºiº
+[kernel] : [    º] ehci_hcd: USB 2ºnhanºr (EHº Driver
+[kernel] : [    º] NetLabel:  domain hash size = 128
+[kernel] : [    º] pci 0º:0º Limiting direct PCI/Pº transº
+[kernel] : [    º] pnp 0º Plug and Play ACPI device  IDs PNºactive)
+[kernel] : [    º] ACPI: Enabled 2 GPEs in block º to º
+[kernel] : [    º] ohci-pci 0º:º new USB bus registered  assigned bus number 1
+[kernel] : [    º] Allocating IMA MOº and blacklist keyrings.
+[kernel] : [    º] pnp: PnP ACPI: founº º devices
+[kernel] : [    º] audit: initializing netlink subsys (disabled)
+[kernel] : [    º] ACPI: PCI Interrupt Link [Lº (IRQs 5 9 1º *1º)
+[kernel] : [    º] PCI: pci_cache_line_size set to 64 bytes
+[kernel] : [    º] VFS: Disº quoºs dquot_º
+[kernel] : [    º] ACPI: PCI Interrupt Link [Lº (IRQs 5 *9 1º º)
+[kernel] : [    º] audit: type=2ºaudit(1º initialized
+[kernel] : [    º] Hugeº registered 2 MB page size  pre-allocated 0 pages
+[kernel] : [    º] UDP hasº table entries: 5º (order: 2  1º bytes)
+[kernel] : [    º] AppArmor: AppArmor Filesystem Enabled
+[kernel] : [    º] libphy: Fixed MDIº Bus: probed
+[kernel] : [    º] loop: module loaded

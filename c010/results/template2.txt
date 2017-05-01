@@ -1,0 +1,5 @@
+12	: [ 0.205398] SCSI subsystem initialized
+146	: [ 0.604814] brd: module loaded
+147	: [ 0.605301] loop: module loaded
+149	: [ 0.605631] scsi host0: ata_piix
+150	: [ 0.605666] scsi host1: ata_piix
