@@ -4,7 +4,7 @@
 This repository contains the source code and data on the experiments that where presented
 in the paper "Towards a Neural Language Model for Signature Extraction"
 
-TODO add DOI here if IEEE is ready.
+* DOI: https://doi.org/10.1109/ISDFS.2017.7916497
 
 # Preparation of experiment environment:
 * Requirements: python2.7, pip
@@ -26,7 +26,7 @@ Experiments should be run in order. So to reproduce the neural language model ex
 Run the 900 script. The -e parameter specifies the directory where the results should be stored.   
 
 # Citation
-If you plan to use this work, please use the following citation:
+If you plan to use this work, please use the following citation
 
 @inproceedings{thaler2017towards,
   title={Towards a neural language model for signature extraction from forensic logs},
