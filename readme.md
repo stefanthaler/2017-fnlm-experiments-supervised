@@ -26,7 +26,17 @@ Experiments should be run in order. So to reproduce the neural language model ex
 Run the 900 script. The -e parameter specifies the directory where the results should be stored.   
 
 # Citation
-TODO add citation here if IEEE is ready.
+If you plan to use this work, please use the following citation:
+
+@inproceedings{thaler2017towards,
+  title={Towards a neural language model for signature extraction from forensic logs},
+  author={Thaler, Stefan and Menkonvski, Vlado and Petkovic, Milan},
+  booktitle={Digital Forensic and Security (ISDFS), 2017 5th International Symposium on},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}
+
 
 # Work used in this paper:
 ## IPLoM Implentation:
