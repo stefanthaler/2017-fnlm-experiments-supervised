@@ -15,9 +15,11 @@ in the paper "Towards a Neural Language Model for Signature Extraction"
 * . exp/bin/activate.fish
 
 ## Install dependencies
-* pip install keras-2.0.4
-* pip install scikit-learn-0.18.1
-* pip install tensorflow-1.1.0-cp27  (CPU version, GPU version is tensorflow-GPU)
+* pip install keras==2.0.4
+* pip install scikit-learn==0.18.1
+* pip install tensorflow==1.1.0-cp27  (CPU version, GPU version is tensorflow-GPU)
+* pip install h5py==2.7.1  (for saving keras models)
+
 
 # Run the experiments
 Experiments should be run in order. So to reproduce the neural language model experiment, run the script which name starts with 100, then 101, etc.
