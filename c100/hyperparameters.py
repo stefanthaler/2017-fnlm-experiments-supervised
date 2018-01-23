@@ -4,7 +4,7 @@ data_dir = "data"
 results_dir = join("c100","results")
 train_logfile = join(data_dir, 'train_logfile.txt')
 train_tagfile = join(data_dir, 'train_tagsfile.logtags')
-vocab_file = join(data_dir,"vocabulary.log")
+vocab_file = join(data_dir,"train_logfile.txt") # all the characters that should be in train
 test_logsfile_name  = join(data_dir,"test_logfile.txt")
 result_tags_filename = join(results_dir,"result_tagsfile.logtags")
 
